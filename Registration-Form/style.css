@@ -121,12 +121,6 @@
   display: block;
 }
 
-@media screen and (max-width: 768px) {
-  button.userDeleteBtn {
-    display: block;
-  }
-}
-
 .wrapper:nth-child(odd) {
   background-color: #fff;
 }
